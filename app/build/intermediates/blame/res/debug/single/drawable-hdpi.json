@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Owner\\AndroidStudioProjects\\GeoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\arrow_left.png",
+        "source": "C:\\Users\\Owner\\AndroidStudioProjects\\GeoQuiz\\app\\src\\main\\res\\drawable-hdpi\\arrow_left.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\AndroidStudioProjects\\GeoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\arrow_right.png",
+        "source": "C:\\Users\\Owner\\AndroidStudioProjects\\GeoQuiz\\app\\src\\main\\res\\drawable-hdpi\\arrow_right.png"
+    }
+]
