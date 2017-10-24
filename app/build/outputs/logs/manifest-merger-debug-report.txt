@@ -1,8 +1,8 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Owner\AndroidStudioProjects\GeoQuiz\app\src\main\AndroidManifest.xml:2:1-20:12
+ADDED from C:\Users\Owner\AndroidStudioProjects\GeoQuiz\app\src\main\AndroidManifest.xml:2:1-22:12
 	package
-		ADDED from C:\Users\Owner\AndroidStudioProjects\GeoQuiz\app\src\main\AndroidManifest.xml:3:5-47
+		ADDED from C:\Users\Owner\AndroidStudioProjects\GeoQuiz\app\src\main\AndroidManifest.xml:3:11-53
 		INJECTED from C:\Users\Owner\AndroidStudioProjects\GeoQuiz\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Owner\AndroidStudioProjects\GeoQuiz\app\src\main\AndroidManifest.xml
 	android:versionName
@@ -14,7 +14,7 @@ ADDED from C:\Users\Owner\AndroidStudioProjects\GeoQuiz\app\src\main\AndroidMani
 		INJECTED from C:\Users\Owner\AndroidStudioProjects\GeoQuiz\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Owner\AndroidStudioProjects\GeoQuiz\app\src\main\AndroidManifest.xml
 application
-ADDED from C:\Users\Owner\AndroidStudioProjects\GeoQuiz\app\src\main\AndroidManifest.xml:5:5-18:19
+ADDED from C:\Users\Owner\AndroidStudioProjects\GeoQuiz\app\src\main\AndroidManifest.xml:5:5-20:19
 MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Owner\.android\build-cache\05d863f1d16647a7e0e33c85b0f44566e08b64a0\output\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Owner\.android\build-cache\62be36243c0df50edde70e14f56ff6faa58ee68d\output\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\Owner\.android\build-cache\3fe2d83cdce937ba3baeed233aa4b9cb217dc0d7\output\AndroidManifest.xml:25:5-20
@@ -24,6 +24,7 @@ MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Owner\.andr
 MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\Owner\.android\build-cache\b2bb8ac1e3e3ada564beb81bf936d006da7a5d41\output\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Owner\.android\build-cache\f536e4547d1dbd4844152997b740848b32b95583\output\AndroidManifest.xml:23:5-20
 MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Owner\.android\build-cache\611074f8384946c5d24ee7a8a97e19beacba6db1\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Owner\.android\build-cache\f4abb8a54d653f9fd0a6af434d888b3b5f4c24a8\output\AndroidManifest.xml:9:5-20
 	android:label
 		ADDED from C:\Users\Owner\AndroidStudioProjects\GeoQuiz\app\src\main\AndroidManifest.xml:8:9-41
 	android:supportsRtl
@@ -41,13 +42,17 @@ ADDED from C:\Users\Owner\AndroidStudioProjects\GeoQuiz\app\src\main\AndroidMani
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
 ADDED from C:\Users\Owner\AndroidStudioProjects\GeoQuiz\app\src\main\AndroidManifest.xml:12:13-16:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Owner\AndroidStudioProjects\GeoQuiz\app\src\main\AndroidManifest.xml:13:17-69
+ADDED from C:\Users\Owner\AndroidStudioProjects\GeoQuiz\app\src\main\AndroidManifest.xml:13:17-68
 	android:name
 		ADDED from C:\Users\Owner\AndroidStudioProjects\GeoQuiz\app\src\main\AndroidManifest.xml:13:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Owner\AndroidStudioProjects\GeoQuiz\app\src\main\AndroidManifest.xml:15:17-77
+ADDED from C:\Users\Owner\AndroidStudioProjects\GeoQuiz\app\src\main\AndroidManifest.xml:15:17-76
 	android:name
 		ADDED from C:\Users\Owner\AndroidStudioProjects\GeoQuiz\app\src\main\AndroidManifest.xml:15:27-74
+activity#com.bignerdranch.android.geoquiz.CheatActivity
+ADDED from C:\Users\Owner\AndroidStudioProjects\GeoQuiz\app\src\main\AndroidManifest.xml:18:9-19:20
+	android:name
+		ADDED from C:\Users\Owner\AndroidStudioProjects\GeoQuiz\app\src\main\AndroidManifest.xml:18:19-48
 uses-sdk
 INJECTED from C:\Users\Owner\AndroidStudioProjects\GeoQuiz\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Owner\.android\build-cache\05d863f1d16647a7e0e33c85b0f44566e08b64a0\output\AndroidManifest.xml:21:5-23:78
@@ -59,6 +64,7 @@ MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Owner\.andr
 MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\Owner\.android\build-cache\b2bb8ac1e3e3ada564beb81bf936d006da7a5d41\output\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Owner\.android\build-cache\f536e4547d1dbd4844152997b740848b32b95583\output\AndroidManifest.xml:21:5-43
 MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Owner\.android\build-cache\611074f8384946c5d24ee7a8a97e19beacba6db1\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Owner\.android\build-cache\f4abb8a54d653f9fd0a6af434d888b3b5f4c24a8\output\AndroidManifest.xml:5:5-7:41
 	tools:overrideLibrary
 		ADDED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Owner\.android\build-cache\05d863f1d16647a7e0e33c85b0f44566e08b64a0\output\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion

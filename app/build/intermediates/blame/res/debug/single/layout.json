@@ -4,16 +4,16 @@
         "source": "C:\\Users\\Owner\\.android\\build-cache\\05d863f1d16647a7e0e33c85b0f44566e08b64a0\\output\\res\\layout\\notification_template_big_media.xml"
     },
     {
-        "merged": "C:\\Users\\Owner\\AndroidStudioProjects\\GeoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\05d863f1d16647a7e0e33c85b0f44566e08b64a0\\output\\res\\layout\\abc_dialog_title_material.xml"
+        "merged": "C:\\Users\\Owner\\AndroidStudioProjects\\GeoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\05d863f1d16647a7e0e33c85b0f44566e08b64a0\\output\\res\\layout\\abc_action_menu_layout.xml"
     },
     {
         "merged": "C:\\Users\\Owner\\AndroidStudioProjects\\GeoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\05d863f1d16647a7e0e33c85b0f44566e08b64a0\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
     },
     {
-        "merged": "C:\\Users\\Owner\\AndroidStudioProjects\\GeoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\05d863f1d16647a7e0e33c85b0f44566e08b64a0\\output\\res\\layout\\abc_action_menu_layout.xml"
+        "merged": "C:\\Users\\Owner\\AndroidStudioProjects\\GeoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\05d863f1d16647a7e0e33c85b0f44566e08b64a0\\output\\res\\layout\\abc_dialog_title_material.xml"
     },
     {
         "merged": "C:\\Users\\Owner\\AndroidStudioProjects\\GeoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
@@ -38,6 +38,10 @@
     {
         "merged": "C:\\Users\\Owner\\AndroidStudioProjects\\GeoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\05d863f1d16647a7e0e33c85b0f44566e08b64a0\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\AndroidStudioProjects\\GeoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cheat.xml",
+        "source": "C:\\Users\\Owner\\AndroidStudioProjects\\GeoQuiz\\app\\src\\main\\res\\layout\\activity_cheat.xml"
     },
     {
         "merged": "C:\\Users\\Owner\\AndroidStudioProjects\\GeoQuiz\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",

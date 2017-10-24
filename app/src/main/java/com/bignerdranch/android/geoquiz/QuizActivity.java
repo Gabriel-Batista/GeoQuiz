@@ -1,5 +1,6 @@
 package com.bignerdranch.android.geoquiz;
 
+import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
@@ -17,6 +18,7 @@ public class QuizActivity extends AppCompatActivity {
     private Button mTrueButton;             //Holds reference to True Button
     private Button mFalseButton;            //Holds reference to False Button
     private Button mNextButton;             //Holds reference to Next Button
+    private Button mCheatButton;            //Holds reference to Cheat Button
     private TextView mQuestionTextView;     //Holds reference to QuestionTextView ( the space where question is displayed )
 
     private int mScore =0;                     //Keeps score for game.
@@ -98,6 +100,17 @@ public class QuizActivity extends AppCompatActivity {
                 mTrueButton.setClickable(true);
                 Log.d(TAG, "mTrueButoon was enabled.");
                 finalScore();
+            }
+        });
+
+        //Grabs reference to the Cheat Button then sets a  listener for the user click input.
+        mCheatButton = (Button) findViewById(R.id.cheat_button);
+        mCheatButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                // Start CheatActivity
+                Intent intent = new Intent(QuizActivity.this, CheatActivity.class);
+                startActivity(intent);
             }
         });
     }
